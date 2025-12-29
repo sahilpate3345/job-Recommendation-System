@@ -1,0 +1,30 @@
+[
+    {
+      "candidate_id": 1,
+      "trade": "Electrician",
+      "job_role": "Electrician",
+      "skills": "Wiring, Maintenance, Panel Board",
+      "job_required_skills": "Wiring, Maintenance, Panel Board",
+      "experience_years": 2,
+      "job_min_experience": 1
+    },
+    {
+      "candidate_id": 2,
+      "trade": "Mechanic Diesel",
+      "job_role": "Diesel Mechanic",
+      "skills": "Engine Repair, Maintenance",
+      "job_required_skills": "Engine Repair, Maintenance",
+      "experience_years": 4,
+      "job_min_experience": 3
+    },
+    {
+      "candidate_id": 3,
+      "trade": "Plumber",
+      "job_role": "Plumber",
+      "skills": "Pipe Fitting, Plumbing Maintenance",
+      "job_required_skills": "Pipe Fitting, Plumbing Maintenance",
+      "experience_years": 1,
+      "job_min_experience": 1
+    }
+  ]
+  
